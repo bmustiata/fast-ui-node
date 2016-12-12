@@ -10,7 +10,6 @@
     "url": "https://github.com/bmustiata/fast-ui-node/issues"
   },
   "dependencies": {
-    "once-many": "0.1.x"
   },
   "description": "A library that packs multiple UI files into a single JS object.",
   "devDependencies": {},
@@ -38,5 +37,5 @@
     "type": "git",
     "url": "git+https://github.com/bmustiata/fast-ui-node.git"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
