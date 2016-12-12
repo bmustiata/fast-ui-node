@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Bogdan Mustiata",
+    "email": "bogdan.mustiata@gmail.com"
+  },
+  "bin": {
+    "fast-ui": "./bin/pack-files.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bmustiata/fast-ui-node/issues"
+  },
+  "dependencies": {
+    "once-many": "0.1.x"
+  },
+  "description": "A library that packs multiple UI files into a single JS object.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/bmustiata/fast-ui-node#readme",
+  "keywords": [
+    "UI",
+    "fastUi",
+    "yui",
+    "yui3",
+    "fast-ui"
+  ],
+  "license": "MIT",
+  "main": "lib/fastui",
+  "maintainers": [
+    {
+      "name": "bmustiata",
+      "email": "bogdan.mustiata@gmail.com"
+    }
+  ],
+  "name": "fast-ui",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmustiata/fast-ui-node.git"
+  },
+  "version": "0.1.1"
+}
